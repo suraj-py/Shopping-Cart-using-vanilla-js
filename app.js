@@ -1,6 +1,6 @@
-const toggleButton = document.querySelector('.toggle_btn');
-const sideCart = document.querySelector('.side_menu');
+const sideMenu = document.querySelector('.side-menu')
+const cartBtn = document.querySelector('.cart-icon')
 
-toggleButton.addEventListener('click', () => {
-    sideCart.classList.toggle('open');
+cartBtn.addEventListener('click', (e) => {
+    sideMenu.classList.toggle('active')
 })
