@@ -1,7 +1,57 @@
 [
     {
+        "id":1,
         "name":"Glowing Unicorn",
-        "price": "250",
+        "price": 250,
         "image_url":"./assests/glowingunicorn.jpeg"
+    },
+
+    {
+        "id":2,
+        "name":"Glowing Unicorn",
+        "price": 250,
+        "image_url":"./assests/bear.jpeg"
+    },
+
+    {
+        "id":3,
+        "name":"Glowing Unicorn",
+        "price": 250,
+        "image_url":"./assests/cat.jpeg"
+    },
+
+    {
+        "id":4,
+        "name":"Glowing Unicorn",
+        "price": 250,
+        "image_url":"./assests/dino.jpeg"
+    },
+    
+    {
+        "id":5,
+        "name":"Glowing Unicorn",
+        "price": 250,
+        "image_url":"./assests/disneystitch.jpeg"
+    },
+
+    {
+        "id":6,
+        "name":"Glowing Unicorn",
+        "price": 250,
+        "image_url":"./assests/duck.jpeg"
+    },
+    
+    {
+        "id":7,
+        "name":"Glowing Unicorn",
+        "price": 250,
+        "image_url":"./assests/fluffypenguin.jpeg"
+    },
+
+    {
+        "id":8,
+        "name":"Glowing Unicorn",
+        "price": 250,
+        "image_url":"./assests/toastofdoll.jpeg"
     }
 ]
